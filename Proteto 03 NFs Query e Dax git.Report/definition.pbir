@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Proteto 03 NFs Query e Dax git.Dataset"
+    },
+    "byConnection": null
+  }
+}
